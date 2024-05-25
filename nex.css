@@ -1,0 +1,19 @@
+body {
+    margin: 8px;
+}
+
+.all {
+    margin: 10px;
+}
+
+button {
+    width: 80px;
+    margin-top: 8px;
+    padding: 9cqmax;
+    font-size: 29px;
+    font-weight: bold;
+    color: rgb(27, 233, 44);
+    background-color: rgb(196, 163, 163);
+    border: none;
+    border-radius: 16px;
+}
